@@ -7,34 +7,38 @@
       "price": 803,
       "importance": 1,
       "desire": 1
-    },{
+    },
+    {
       "id": 1,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
       "name": "Пепперони Фреш с перцем",
       "price": 803,
       "importance": 2,
       "desire": 2
-    },{
+    },
+    {
       "id": 2,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
       "name": "Пепперони Фреш с перцем",
       "price": 803,
       "importance": 3,
       "desire": 3
-    },{
+    },
+    {
       "id": 3,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
       "name": "Пепперони Фреш с перцем",
       "price": 803,
       "importance": 4,
       "desire": 4
-    },{
+    },
+    {
       "id": 4,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
       "name": "Пепперони Фреш с перцем",
       "price": 803,
       "importance": 5,
       "desire": 5
-    },
+    }
   ]
 }

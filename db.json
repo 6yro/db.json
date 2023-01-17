@@ -1,4 +1,5 @@
-"products": [
+{
+  "products": [
     {
       "id": "63c337151431b2f5010ea4c1",
       "title": "velit qui irure ea",
@@ -245,4 +246,4 @@
       "isSoldOut": true
     }
   ]
-
+}

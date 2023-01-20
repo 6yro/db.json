@@ -1,233 +1,1024 @@
 {
   "products": [
-    {
-      "id": "63c337151431b2f5010ea4c1",
-      "title": "velit qui irure ea",
-      "price": 42,
-      "imageUrl": 8,
-      "category": "new arrivals",
-      "discountPrice": 35
-    },
-    {
-      "id": "63c3371570f3d4ee6659cd06",
-      "title": "culpa minim magna dolore",
-      "price": 39,
-      "imageUrl": 4,
-      "category": "face masks",
-      "discountPrice": 35
-    },
-    {
-      "id": "63c337157e4278c205e7f317",
-      "title": "nulla sunt elit occaecat",
-      "price": 26,
-      "imageUrl": 12,
-      "category": "best sellers",
-      "discountPrice": 35
-    },
-    {
-      "id": "63c3371529d7fbc319ce128f",
-      "title": "minim non eiusmod tempor",
-      "price": 74,
-      "imageUrl": 8,
-      "category": "new arrivals",
-      "discountPrice": 35
-    },
-    {
-      "id": "63c33715fc7d3a4bcf791175",
-      "title": "eu laborum adipisicing dolor",
-      "price": 74,
-      "imageUrl": 11,
-      "category": "face masks",
-      "discountPrice": 35,
-      "subtitle": "Gray"
-    },
-    {
-      "id": "63c33715334eea430457144d",
-      "title": "deserunt sunt irure ad",
-      "price": 89,
-      "imageUrl": 11,
-      "category": "best sellers",
-      "discountPrice": 35,
-      "subtitle": "Gray"
-    },
-    {
-      "id": "63c33715bfe799d66770fcd2",
-      "title": "esse reprehenderit consectetur consectetur",
-      "price": 64,
-      "imageUrl": 19,
-      "category": "best sellers",
-      "discountPrice": 35,
-      "subtitle": "Gray"
-    },
-    {
-      "id": "63c33715d3918d50185c4419",
-      "title": "amet enim velit mollit",
-      "price": 57,
-      "imageUrl": 1,
-      "category": "face masks",
-      "discountPrice": 35,
-      "subtitle": "Gray"
-    },
-    {
-      "id": "63c33715e641130799a93343",
-      "title": "aute tempor labore occaecat",
-      "price": 89,
-      "imageUrl": 5,
-      "category": "new arrivals",
-      "subtitle": "Gray"
-    },
-    {
-      "id": "63c33715892640c1aaee4bfd",
-      "title": "esse minim in quis",
-      "price": 48,
-      "imageUrl": 19,
-      "category": "clothing",
-      "subtitle": "Gray"
-    },
-    {
-      "id": "63c33715fa8a5db40e111b15",
-      "title": "laboris irure laboris mollit",
-      "price": 13,
-      "imageUrl": 5,
-      "category": "clothing",
-      "subtitle": "Gray"
-    },
-    {
-      "id": "63c33715145f462dc2b8c3e8",
-      "title": "minim eiusmod velit consequat",
-      "price": 41,
-      "imageUrl": 5,
-      "category": "best sellers"
-    },
-    {
-      "id": "63c337152e06bce871d4c8a4",
-      "title": "proident magna laboris ipsum",
-      "price": 40,
-      "imageUrl": 5,
-      "category": "final stock"
-    },
-    {
-      "id": "63c33715db0e69173e87b298",
-      "title": "commodo quis exercitation non",
-      "price": 32,
-      "imageUrl": 1,
-      "category": "face masks"
-    },
-    {
-      "id": "63c33715406fda7cefd453aa",
-      "title": "sunt irure ea qui",
-      "price": 34,
-      "imageUrl": 5,
-      "category": "objects"
-    },
-    {
-      "id": "63c33715b2a6875fff4c631d",
-      "title": "velit laboris quis ullamco",
-      "price": 31,
-      "imageUrl": 7,
-      "category": "final stock"
-    },
-    {
-      "id": "63c337158158e2d3f4836ee2",
-      "title": "nostrud nisi esse irure",
-      "price": 77,
-      "imageUrl": 14,
-      "category": "clothing"
-    },
-    {
-      "id": "63c33715c509ddde4468cd6c",
-      "title": "pariatur proident commodo et",
-      "price": 53,
-      "imageUrl": 20,
-      "category": "objects"
-    },
-    {
-      "id": "63c33715e18481f3d4b9cb8d",
-      "title": "ut aliqua ipsum laboris",
-      "price": 98,
-      "imageUrl": 16,
-      "category": "objects"
-    },
-    {
-      "id": "63c337153b584e3250e66c9f",
-      "title": "culpa non nulla nulla",
-      "price": 86,
-      "imageUrl": 18,
-      "category": "best sellers"
-    },
-    {
-      "id": "63c337154c51f9e9c1a6bee6",
-      "title": "nisi ullamco cillum ea",
-      "price": 75,
-      "imageUrl": 19,
-      "category": "face masks"
-    },
-    {
-      "id": "63c337156b1d7d9b06a9f383",
-      "title": "enim laboris magna qui",
-      "price": 85,
-      "imageUrl": 12,
-      "category": "clothing"
-    },
-    {
-      "id": "63c3371518df07d081b9829b",
-      "title": "amet sit sunt occaecat",
-      "price": 74,
-      "imageUrl": 8,
-      "category": "best sellers"
-    },
-    {
-      "id": "63c337159dbc66d2780d4860",
-      "title": "consectetur laboris esse excepteur",
-      "price": 39,
-      "imageUrl": 6,
-      "category": "clothing"
-    },
-    {
-      "id": "63c33715926cd78625b34b5b",
-      "title": "ipsum ipsum qui commodo",
-      "price": 13,
-      "imageUrl": 2,
-      "category": "final stock"
-    },
-    {
-      "id": "63c33715d9dacf1b3d4d3b10",
-      "title": "nulla in est ea",
-      "price": 55,
-      "imageUrl": 14,
-      "category": "new arrivals"
-    },
-    {
-      "id": "63c337155a6302bd115c2ec0",
-      "title": "et voluptate esse reprehenderit",
-      "price": 11,
-      "imageUrl": 16,
-      "category": "clothing",
-      "isSoldOut": true
-    },
-    {
-      "id": "63c3371533a40cf7c34bffe1",
-      "title": "minim aliquip sit eiusmod",
-      "price": 23,
-      "imageUrl": 13,
-      "category": "final stock",
-      "isSoldOut": true
-    },
-    {
-      "id": "63c33715f6807b2cd5b134de",
-      "title": "nisi qui adipisicing culpa",
-      "price": 93,
-      "imageUrl": 15,
-      "category": "best sellers",
-      "isSoldOut": true
-    },
-    {
-      "id": "63c33715271d66634e469d3f",
-      "title": "tempor cupidatat labore sunt",
-      "price": 77,
-      "imageUrl": 3,
-      "category": "new arrivals",
-      "isSoldOut": true
-    }
-  ]
+  {
+    "id": "63ca9872ec20eeeb3f978a0c",
+    "title": "eiusmod ipsum veniam id",
+    "subtitle": "aute",
+    "imageUrl": 16,
+    "category": "clothing",
+    "colors": [
+      "blue",
+      "white",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 55
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 192
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 221
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 322
+      }
+    ]
+  },
+  {
+    "id": "63ca98721ff795927a1b236b",
+    "title": "eu tempor laboris fugiat",
+    "subtitle": "sint",
+    "imageUrl": 14,
+    "category": "final stock",
+    "colors": [
+      "blue",
+      "black",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 42
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 196
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 286
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 338
+      }
+    ]
+  },
+  {
+    "id": "63ca9872d2adf7392965390c",
+    "title": "mollit veniam Lorem tempor",
+    "subtitle": "culpa",
+    "imageUrl": 16,
+    "category": "clothing",
+    "colors": [
+      "red",
+      "black",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 17
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 115
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 296
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 381
+      }
+    ]
+  },
+  {
+    "id": "63ca987232f7fc53f81e8c67",
+    "title": "est non excepteur cupidatat",
+    "subtitle": "",
+    "imageUrl": 1,
+    "category": "best sellers",
+    "colors": [
+      "red",
+      "white",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 6
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 104
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 236
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 302
+      }
+    ]
+  },
+  {
+    "id": "63ca98723a94ff75c111d7e4",
+    "title": "adipisicing qui nulla elit",
+    "subtitle": "quis",
+    "imageUrl": 20,
+    "category": "clothing",
+    "colors": [
+      "green",
+      "black",
+      "yellow"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 74
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 108
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 212
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 308
+      }
+    ]
+  },
+  {
+    "id": "63ca987265c84a07c95dad14",
+    "title": "est aliqua in qui",
+    "subtitle": "",
+    "imageUrl": 19,
+    "category": "clothing",
+    "colors": [
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 85
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 122
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 269
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 315
+      }
+    ]
+  },
+  {
+    "id": "63ca9872a84d0884ea31e43a",
+    "title": "ea aute laboris cillum",
+    "subtitle": "",
+    "imageUrl": 10,
+    "category": "clothing",
+    "colors": [
+      "green",
+      "black",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 55
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 127
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 234
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 360
+      }
+    ]
+  },
+  {
+    "id": "63ca9872f629bf858f2c413b",
+    "title": "tempor ullamco deserunt commodo",
+    "subtitle": "voluptate",
+    "imageUrl": 6,
+    "category": "clothing",
+    "colors": [
+      "blue",
+      "white",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 69
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 114
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 280
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 315
+      }
+    ]
+  },
+  {
+    "id": "63ca9872b8d9d1679ad0b46a",
+    "title": "magna officia quis sint",
+    "subtitle": "ad",
+    "imageUrl": 18,
+    "category": "objects",
+    "colors": [
+      "blue",
+      "white",
+      ""
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 25
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 199
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 300
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 371
+      }
+    ]
+  },
+  {
+    "id": "63ca9872ce30928dd4916c5f",
+    "title": "aute esse laborum eiusmod",
+    "subtitle": "dolor",
+    "imageUrl": 3,
+    "category": "new arrivals",
+    "colors": [
+      "red",
+      "white",
+      ""
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 23
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 193
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 247
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 347
+      }
+    ]
+  },
+  {
+    "id": "63ca9872f0bfbe91decbe546",
+    "title": "qui veniam laboris anim",
+    "subtitle": "",
+    "imageUrl": 18,
+    "category": "clothing",
+    "colors": [
+      "green",
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 5
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 168
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 228
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 305
+      }
+    ]
+  },
+  {
+    "id": "63ca9872e2e2e16df001d68d",
+    "title": "adipisicing magna adipisicing velit",
+    "subtitle": "mollit",
+    "imageUrl": 5,
+    "category": "objects",
+    "colors": [
+      "red",
+      "black",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 44
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 149
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 283
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 375
+      }
+    ]
+  },
+  {
+    "id": "63ca9872114fec68e9a74d0e",
+    "title": "culpa minim minim cupidatat",
+    "subtitle": "nulla",
+    "imageUrl": 4,
+    "category": "best sellers",
+    "colors": [
+      "green",
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 68
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 139
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 272
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 332
+      }
+    ]
+  },
+  {
+    "id": "63ca9872617693a77c4387ce",
+    "title": "veniam sint deserunt exercitation",
+    "subtitle": "",
+    "imageUrl": 2,
+    "category": "final stock",
+    "colors": [
+      "red",
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 94
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 101
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 222
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 347
+      }
+    ]
+  },
+  {
+    "id": "63ca98721a5a74a46f27f771",
+    "title": "quis officia eiusmod culpa",
+    "subtitle": "sint",
+    "imageUrl": 20,
+    "category": "best sellers",
+    "colors": [
+      "green",
+      "black",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 32
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 119
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 268
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 352
+      }
+    ]
+  },
+  {
+    "id": "63ca98722dbc4a5b7742608a",
+    "title": "ea ullamco sint ullamco",
+    "subtitle": "commodo",
+    "imageUrl": 6,
+    "category": "clothing",
+    "colors": [
+      "green",
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 76
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 160
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 229
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 354
+      }
+    ]
+  },
+  {
+    "id": "63ca9872e3a74b44b05958bb",
+    "title": "aliquip cillum id est",
+    "subtitle": "commodo",
+    "imageUrl": 14,
+    "category": "final stock",
+    "colors": [
+      "blue",
+      "white",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 70
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 176
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 206
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 337
+      }
+    ]
+  },
+  {
+    "id": "63ca98728cac96170d72ed63",
+    "title": "aliquip culpa sit laboris",
+    "subtitle": "",
+    "imageUrl": 4,
+    "category": "objects",
+    "colors": [
+      "green",
+      "white",
+      ""
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 89
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 105
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 277
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 311
+      }
+    ]
+  },
+  {
+    "id": "63ca9872a1e34173118e796d",
+    "title": "minim proident pariatur velit",
+    "subtitle": "dolor",
+    "imageUrl": 1,
+    "category": "new arrivals",
+    "colors": [
+      "red",
+      "black",
+      ""
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 58
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 119
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 220
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 390
+      }
+    ]
+  },
+  {
+    "id": "63ca9872bb1c1275bf3cd040",
+    "title": "excepteur aute minim nisi",
+    "subtitle": "",
+    "imageUrl": 19,
+    "category": "best sellers",
+    "colors": [
+      "green",
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 99
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 155
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 271
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 342
+      }
+    ]
+  },
+  {
+    "id": "63ca9872d6212f0e329e2255",
+    "title": "voluptate sit exercitation ea",
+    "subtitle": "",
+    "imageUrl": 8,
+    "category": "objects",
+    "colors": [
+      "blue",
+      "black",
+      ""
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 64
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 151
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 256
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 398
+      }
+    ]
+  },
+  {
+    "id": "63ca987200aa8d6615311efa",
+    "title": "sint et enim amet",
+    "subtitle": "elit",
+    "imageUrl": 2,
+    "category": "clothing",
+    "colors": [
+      "blue",
+      "black",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 61
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 136
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 233
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 342
+      }
+    ]
+  },
+  {
+    "id": "63ca9872abadacb036e95bc6",
+    "title": "veniam laboris pariatur labore",
+    "subtitle": "",
+    "imageUrl": 15,
+    "category": "new arrivals",
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 75
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 189
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 291
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 322
+      }
+    ]
+  },
+  {
+    "id": "63ca9872a56b4dea2cd8d911",
+    "title": "qui fugiat eiusmod est",
+    "subtitle": "elit",
+    "imageUrl": 5,
+    "category": "clothing",
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 72
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 166
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 276
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 352
+      }
+    ]
+  },
+  {
+    "id": "63ca9872d31fbd8229392cad",
+    "title": "eu velit id minim",
+    "subtitle": "ullamco",
+    "imageUrl": 16,
+    "category": "face masks",
+    "colors": [
+      "red",
+      "black",
+      "pink"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 54
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 112
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 223
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 338
+      }
+    ]
+  },
+  {
+    "id": "63ca98727776462248c713ce",
+    "title": "officia duis consectetur eiusmod",
+    "subtitle": "nisi",
+    "imageUrl": 18,
+    "category": "best sellers",
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 66
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 127
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 209
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 341
+      }
+    ]
+  },
+  {
+    "id": "63ca98720106edc5fdff36a8",
+    "title": "aliquip quis magna dolor",
+    "subtitle": "dolor",
+    "imageUrl": 3,
+    "category": "objects",
+    "colors": [
+      "blue",
+      "white",
+      "orange"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 88
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 160
+      },
+      {
+        "size": "l",
+        "inStock": false,
+        "price": 290
+      },
+      {
+        "size": "xl",
+        "inStock": false,
+        "price": 348
+      }
+    ]
+  },
+  {
+    "id": "63ca98721b85b79b1023ed43",
+    "title": "nulla voluptate ipsum dolor",
+    "subtitle": "",
+    "imageUrl": 19,
+    "category": "final stock",
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": false,
+        "price": 27
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 119
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 278
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 337
+      }
+    ]
+  },
+  {
+    "id": "63ca987283f9219d6883e2e8",
+    "title": "incididunt incididunt sunt officia",
+    "subtitle": "",
+    "imageUrl": 13,
+    "category": "face masks",
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 91
+      },
+      {
+        "size": "m",
+        "inStock": false,
+        "price": 135
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 241
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 383
+      }
+    ]
+  },
+  {
+    "id": "63ca9872e3cb9c53dccec9be",
+    "title": "tempor dolor exercitation veniam",
+    "subtitle": "",
+    "imageUrl": 5,
+    "category": "objects",
+    "colors": [
+      "red",
+      "black",
+      ""
+    ],
+    "sizes": [
+      {
+        "size": "s",
+        "inStock": true,
+        "price": 14
+      },
+      {
+        "size": "m",
+        "inStock": true,
+        "price": 105
+      },
+      {
+        "size": "l",
+        "inStock": true,
+        "price": 241
+      },
+      {
+        "size": "xl",
+        "inStock": true,
+        "price": 371
+      }
+    ]
+  }
+]
 }

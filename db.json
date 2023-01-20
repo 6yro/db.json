@@ -985,40 +985,6 @@
         "price": 383
       }
     ]
-  },
-  {
-    "id": "63ca9872e3cb9c53dccec9be",
-    "title": "tempor dolor exercitation veniam",
-    "subtitle": "",
-    "imageUrl": 5,
-    "category": "objects",
-    "colors": [
-      "red",
-      "black",
-      ""
-    ],
-    "sizes": [
-      {
-        "size": "s",
-        "inStock": true,
-        "price": 14
-      },
-      {
-        "size": "m",
-        "inStock": true,
-        "price": 105
-      },
-      {
-        "size": "l",
-        "inStock": true,
-        "price": 241
-      },
-      {
-        "size": "xl",
-        "inStock": true,
-        "price": 371
-      }
-    ]
   }
 ]
 }

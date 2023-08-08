@@ -6,7 +6,7 @@
       "subtitle": "",
       "imageUrl": 4,
       "category": "final stock",
-      "colors": ["blue", "gray", ""],
+      "colors": ["Blue", "Gray", ""],
       "sizes": [
         {
           "size": "S",
@@ -36,7 +36,7 @@
       "subtitle": "",
       "imageUrl": 8,
       "category": "new arrivals",
-      "colors": ["blue", "black", "pink"],
+      "colors": ["Blue", "Black", "Pink"],
       "sizes": [
         {
           "size": "S",
@@ -66,7 +66,7 @@
       "subtitle": "",
       "imageUrl": 13,
       "category": "face masks",
-      "colors": ["blue", "black", "yellow"],
+      "colors": ["Blue", "Black", "Yellow"],
       "sizes": [
         {
           "size": "S",
@@ -96,7 +96,7 @@
       "subtitle": "laboris",
       "imageUrl": 13,
       "category": "best sellers",
-      "colors": ["red", "black", "pink"],
+      "colors": ["Red", "Black", "Pink"],
       "sizes": [
         {
           "size": "S",
@@ -126,7 +126,7 @@
       "subtitle": "esse",
       "imageUrl": 20,
       "category": "clothing",
-      "colors": ["red", "black", "yellow"],
+      "colors": ["Red", "Black", "Yellow"],
       "sizes": [
         {
           "size": "S",
@@ -156,7 +156,7 @@
       "subtitle": "aute",
       "imageUrl": 13,
       "category": "new arrivals",
-      "colors": ["green", "gray", "orange"],
+      "colors": ["Green", "Gray", "Orange"],
       "sizes": [
         {
           "size": "S",
@@ -186,7 +186,7 @@
       "subtitle": "irure",
       "imageUrl": 17,
       "category": "new arrivals",
-      "colors": ["green", "gray", ""],
+      "colors": ["Green", "Gray", ""],
       "sizes": [
         {
           "size": "S",
@@ -216,7 +216,7 @@
       "subtitle": "",
       "imageUrl": 3,
       "category": "best sellers",
-      "colors": ["red", "black", "pink"],
+      "colors": ["Red", "Black", "Pink"],
       "sizes": [
         {
           "size": "S",
@@ -246,7 +246,7 @@
       "subtitle": "est",
       "imageUrl": 17,
       "category": "final stock",
-      "colors": ["blue", "black", ""],
+      "colors": ["Blue", "Black", ""],
       "sizes": [
         {
           "size": "S",
@@ -276,7 +276,7 @@
       "subtitle": "",
       "imageUrl": 17,
       "category": "best sellers",
-      "colors": ["blue", "black", "yellow"],
+      "colors": ["Blue", "Black", "Yellow"],
       "sizes": [
         {
           "size": "S",
@@ -306,7 +306,7 @@
       "subtitle": "",
       "imageUrl": 14,
       "category": "new arrivals",
-      "colors": ["green", "gray", "pink"],
+      "colors": ["Green", "Gray", "Pink"],
       "sizes": [
         {
           "size": "S",
@@ -336,7 +336,7 @@
       "subtitle": "elit",
       "imageUrl": 3,
       "category": "objects",
-      "colors": ["green", "black", "pink"],
+      "colors": ["Green", "Black", "Pink"],
       "sizes": [
         {
           "size": "S",
@@ -366,7 +366,7 @@
       "subtitle": "occaecat",
       "imageUrl": 5,
       "category": "clothing",
-      "colors": ["red", "gray", "pink"],
+      "colors": ["Red", "Gray", "Pink"],
       "sizes": [
         {
           "size": "S",
@@ -396,7 +396,7 @@
       "subtitle": "Lorem",
       "imageUrl": 17,
       "category": "new arrivals",
-      "colors": ["blue", "gray", "pink"],
+      "colors": ["Blue", "Gray", "Pink"],
       "sizes": [
         {
           "size": "S",
@@ -426,7 +426,7 @@
       "subtitle": "velit",
       "imageUrl": 17,
       "category": "best sellers",
-      "colors": ["blue", "gray", ""],
+      "colors": ["Blue", "Gray", ""],
       "sizes": [
         {
           "size": "S",
